@@ -25,8 +25,12 @@ My research interest includes neural machine translation and computer vision. I 
 # 👋 About Me
 Hi! I am Jiayue Pu(浦嘉越), a sophomore majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), supervised by Prof. Xueqi cheng and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy Machine Learning, especially in Large Language Models and Machine Unlearning.
 
-# 📝 Publications 
+# 📖 Educations
+- *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 
+  
+# 📝 Publications 
+Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, currently focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,17 +47,24 @@ Hi! I am Jiayue Pu(浦嘉越), a sophomore majoring in Computer Science at [Univ
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+# 💻 Internships
+- *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Assistant, advised by [Prof. Fei Sun](http://ofey.me/).
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Outstanding Triple-A Student**,  University of Chinese Academy of Sciences
+  -  - Awarded in *June 2024*
+- **Triple-A Student**, University of Chinese Academy of Sciences
+  - Awarded in *June 2023* and *June 2024*
+- **Outstanding Communist Youth League Member**, University of Chinese Academy of Sciences
+  - Awarded in *June 2023* and *June 2024*
+- **First Class Academic Scholarship**, University of Chinese Academy of Sciences
+  - Awarded in *October 2023*
+- **National Scholarship Nomination**, Ministry of Education of P.R.China
+  - Awarded in *October 2023*
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
