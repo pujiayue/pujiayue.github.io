@@ -51,7 +51,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 -->
 
 # 💻 Internships
-- *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Assistant, advised by [Prof. Fei Sun](http://ofey.me/).
+- *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
 
 # 🥇 Honors and Awards
 - **Outstanding Triple-A Student**,  University of Chinese Academy of Sciences
