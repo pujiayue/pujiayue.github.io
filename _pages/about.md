@@ -25,10 +25,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 👋 About Me
 Hi! I am Jiayue Pu(浦嘉越), a sophomore majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), fortunately supervised by Prof. Xueqi cheng and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy Machine Learning, especially in Large Language Models and Machine Unlearning.
 
-Click to view my [CV](https://www.overleaf.com/project/650ff1c0b06af96060fb6d30).
-
 During my freshman year at university, driven by an intense passion for information security, I actively engaged in both practice and competitive events in Capture the Flag (CTF). As I progressed into my sophomore year, I transitioned my focus towards conducting research on the security implications of Large Language Models (LLMs). I am deeply passionate about the field of information security and firmly believe in the principle that "for every clever trick, there is a countermeasure that is even more ingenious." Committed to advancing the state of national information security, I am determined to contribute significantly to this crucial area.
 
+Click to view my [CV](docs/pjy's resume.pdf).
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
