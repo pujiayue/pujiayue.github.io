@@ -68,3 +68,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
+# 👩 Public Affairs
+- President of the Undergraduate Choir, University of Chinese Academy of Sciences
+- Officer of the Student Societies Center, Undergraduate Student Union, University of Chinese Academy of Sciences
+- Vice Class Representative, Class of 2022, Computer Science and Technology, University of Chinese Academy of Sciences
