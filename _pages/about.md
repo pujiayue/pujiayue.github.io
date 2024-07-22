@@ -27,7 +27,6 @@ Hi! I am Jiayue Pu(浦嘉越), a sophomore majoring in Computer Science at [Univ
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
-
   
 # 📝 Publications 
 Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, currently focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
@@ -35,7 +34,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 # 💻 Internships
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Assistant, advised by [Prof. Fei Sun](http://ofey.me/).
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - **Outstanding Triple-A Student**,  University of Chinese Academy of Sciences
   - Awarded in *June 2024*
 - **Triple-A Student**, University of Chinese Academy of Sciences
