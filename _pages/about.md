@@ -52,7 +52,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 
 # 🎖 Honors and Awards
 - **Outstanding Triple-A Student**,  University of Chinese Academy of Sciences
-  -  - Awarded in *June 2024*
+  - Awarded in *June 2024*
 - **Triple-A Student**, University of Chinese Academy of Sciences
   - Awarded in *June 2023* and *June 2024*
 - **Outstanding Communist Youth League Member**, University of Chinese Academy of Sciences
