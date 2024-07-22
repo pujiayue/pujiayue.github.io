@@ -27,7 +27,7 @@ Hi! I am Jiayue Pu(浦嘉越), a sophomore majoring in Computer Science at [Univ
 
 During my freshman year at university, driven by an intense passion for information security, I actively engaged in both practice and competitive events in Capture the Flag (CTF). As I progressed into my sophomore year, I transitioned my focus towards conducting research on the security implications of Large Language Models (LLMs). I am deeply passionate about the field of information security and firmly believe in the principle that "for every clever trick, there is a countermeasure that is even more ingenious." Committed to advancing the state of national information security, I am determined to contribute significantly to this crucial area.
 
-Click to view my [CV](docs/pjy's resume.pdf).
+Click to view my [CV](docs/pjy's_resume.pdf).
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
