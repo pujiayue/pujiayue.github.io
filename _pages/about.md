@@ -33,7 +33,7 @@ Click to view my [CV](https://github.com/pujiayue/pujiayue.github.io/blob/main/d
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
   
 # 📝 Publications 
-Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, currently focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
+Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
