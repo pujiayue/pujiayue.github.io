@@ -73,6 +73,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 -->
 
 # 👩 Public Affairs
+- Principal Cellist of the UCAS Philharmonic Orchestra.
 - President of the Undergraduate Choir, University of Chinese Academy of Sciences
 - Officer of the Student Societies Center, Undergraduate Student Union, University of Chinese Academy of Sciences
 - Vice Class Representative, Class of 2022, Computer Science and Technology, University of Chinese Academy of Sciences
