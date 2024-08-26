@@ -64,6 +64,9 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 - **National Scholarship Nomination**, Ministry of Education of P.R.China
   - Awarded in *October 2023*
 
+# 🤝 Meetings
+- ACL(The Association of Computational Linguistics) 2024, Bangkok, Thailand
+  
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
