@@ -65,7 +65,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
   - Awarded in *October 2023*
 
 # 🤝 Meetings
-- ACL(The Association of Computational Linguistics) 2024, Bangkok, Thailand
+- ACL(The Association for Computational Linguistics) 2024, Bangkok, Thailand
   
 <!--
 # 💬 Invited Talks
