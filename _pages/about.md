@@ -53,6 +53,8 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
 
 # 🥇 Honors and Awards
+- **National Scholarship**, Ministry of Education of P.R.China
+  - Awarded in *November 2024*
 - **Outstanding Triple-A Student**,  University of Chinese Academy of Sciences
   - Awarded in *June 2024*
 - **Triple-A Student**, University of Chinese Academy of Sciences
@@ -61,8 +63,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
   - Awarded in *June 2023* and *June 2024*
 - **First Class Academic Scholarship**, University of Chinese Academy of Sciences
   - Awarded in *October 2023*
-- **National Scholarship Nomination**, Ministry of Education of P.R.China
-  - Awarded in *October 2023*
+
 
 # 🤝 Meetings
 - ACL(The Association for Computational Linguistics) 2024, Bangkok, Thailand
