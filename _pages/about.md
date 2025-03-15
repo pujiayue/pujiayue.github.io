@@ -29,7 +29,7 @@ During my freshman year at university, driven by a strong passion for informatio
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
-- *2023.01 - 2023.05*, Visiting Students in EECS, University of California, Berkeley.
+- *2025.01 - 2025.05*, Visiting Students in EECS, University of California, Berkeley.
   
 # 📝 Publications 
 Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
@@ -52,8 +52,8 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 
 # 💻 Internships
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
-- *2023.09 - 2023.05*, Berkeley AI Safety Initiative, group members.
-- *2023.09 - 2023.05*, University of California, Berkeley, Research Collaborator, advised by [Prof. Yiyou Sun](https://sunyiyou.github.io/).
+- *2024.09 - 2025.05*, Berkeley AI Safety Initiative, group members.
+- *2024.09 - 2025.05*, University of California, Berkeley, Research Collaborator, advised by [Prof. Yiyou Sun](https://sunyiyou.github.io/).
 
 # 🥇 Honors and Awards
 - **National Scholarship**, Ministry of Education of P.R.China
