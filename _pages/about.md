@@ -29,7 +29,7 @@ During my freshman year at university, driven by a strong passion for informatio
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
-- *2025.01 - 2025.05*, Visiting Students in EECS, University of California, Berkeley.
+- *2025.01 - 2025.05*, Visiting Student in EECS, University of California, Berkeley.
   
 # 📝 Publications 
 Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
