@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 👋 About Me
-Hi! I am Jiayue Pu(浦嘉越), a junior majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), fortunately supervised by [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy Machine Learning, especially in Large Language Models and Machine Unlearning.
+Hi! I am Jiayue Pu(浦嘉越), a junior majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), fortunately supervised by [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy AI, especially in Large Language Models (Agents) Unlearnin and Hallucination.
 
 During my freshman year at university, driven by a strong passion for information security, I actively participated in Capture the Flag (CTF) competitions and achieved some notable results. As I progressed into my sophomore year, I joined the Key Laboratory of AI Safety at the Institute of Computing Technology, Chinese Academy of Sciences, where I researched LLM safety under the guidance of [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Fei Sun](http://ofey.me/), with a primary focus on LLM unlearning. Currently, I am a visiting student in the University of California, Berkeley, and conducting research on hallucinations in LLM agents under the guidance of [Dr. Yiyou Sun](https://sunyiyou.github.io/), a postdoctoral researcher in [Prof. Dawn Song](https://dawnsong.io/)'s lab.
 
