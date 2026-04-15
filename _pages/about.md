@@ -30,44 +30,44 @@ During my freshman year at university, driven by a strong passion for informatio
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 - *2025.01 - 2025.05*, Visiting Student in EECS, University of California, Berkeley.
-  
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/homesafe-bench.png' alt="homesafe-bench" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
 
-[HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](https://arxiv.org/abs/2603.11975)
+## **HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**
 
 **Jiayue Pu**, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
 
-[**arXiv**](https://arxiv.org/abs/2603.11975) | [**Project Page**](https://pujiayue.github.io/homesafe-bench.github.io/) | [**Code**](https://github.com/pujiayue/HomeSafe-Bench) | [**Dataset**](https://drive.google.com/drive/folders/1mMTKtmGmu-dBdylRZUoPt3QRKmDe_gk4) | [**Leaderboard**](https://huggingface.co/spaces/pujiayue/HomeSafe-Bench-Leaderboard)
-- We introduce HomeSafe-Bench, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas. We also propose HD-Guard, a hierarchical streaming architecture for real-time safety monitoring.
-</div>
+<div style="margin: 20px 0;">
+  <img src='abcd_00.png' alt="HomeSafe-Bench Overview" style="width: 100%; max-width: 800px;">
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/miragebench.png' alt="mirage-bench" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[[**Project Page**]](https://pujiayue.github.io/homesafe-bench.github.io/) | [[**Paper**]](https://arxiv.org/abs/2603.11975) | [[**Code**]](https://github.com/pujiayue/HomeSafe-Bench) | [[**Dataset**]](https://drive.google.com/your-dataset-link) | [[**Leaderboard**]](https://your-leaderboard-link)
 
-[MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](https://arxiv.org/abs/2507.21017)
+We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas with fine-grained multidimensional annotations. We also propose **HD-Guard**, a hierarchical streaming architecture for real-time safety monitoring that coordinates a lightweight FastBrain for continuous high-frequency screening with an asynchronous SlowBrain for deep multimodal reasoning.
+
+---
+
+## **MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them**
 
 Weichen Zhang, Yiyou Sun, Pohao Huang, **Jiayue Pu**, Heyue Lin, Dawn Song
 
-[**arXiv**](https://arxiv.org/abs/2507.21017) | [**Code & Data**](https://github.com/sunblaze-ucb/mirage-bench)
-- We present MIRAGE-Bench, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts.
-</div>
+<div style="margin: 20px 0;">
+  <img src='mirage-bench.png' alt="MIRAGE-Bench Overview" style="width: 100%; max-width: 800px;">
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/unlearning.png' alt="unlearning-survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[[**Paper**]](https://arxiv.org/link-to-paper) | [[**Code & Data**]](https://github.com/your-repo)
 
-[A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
+We present **MIRAGE-Bench**, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts to systematically assess agent reliability in dynamic environments.
+
+---
+
+## **A Survey on Unlearning in Large Language Models**
 
 Ruichen Qiu, Jiajun Tan, **Jiayue Pu**, Honglin Wang, Xiao-Shan Gao, Fei Sun
 
-[**arXiv**](https://arxiv.org/abs/2510.25117)
-- This survey provides a systematic review of over 180 papers on LLM unlearning published since 2021. It introduces a novel taxonomy categorizing unlearning methods and offers a multidimensional analysis of evaluation paradigms, datasets, and metrics.
-</div>
-</div>
+[[**Paper**]](https://arxiv.org/link-to-paper)
+
+This comprehensive survey provides a systematic review of over 180 papers on LLM unlearning published since 2021. We introduce a novel taxonomy categorizing unlearning methods and offer a multidimensional analysis of evaluation paradigms, datasets, and metrics, providing crucial insights for developing more effective unlearning techniques in large language models.
 
 # 💻 Internships
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
