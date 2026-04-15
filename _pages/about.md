@@ -38,7 +38,7 @@ During my freshman year at university, driven by a strong passion for informatio
 **Jiayue Pu**, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
 
 <div style="margin: 20px 0;">
-  <img src='abcd_00.png' alt="HomeSafe-Bench Overview" style="width: 100%; max-width: 800px;">
+  <img src='/images/abcd_00.png' alt="HomeSafe-Bench Overview" style="width: 100%; max-width: 800px;">
 </div>
 
 [[**Project Page**]](https://pujiayue.github.io/homesafe-bench.github.io/) | [[**Paper**]](https://arxiv.org/abs/2603.11975) | [[**Code**]](https://github.com/pujiayue/HomeSafe-Bench) | [[**Dataset**]](https://drive.google.com/your-dataset-link) | [[**Leaderboard**]](https://your-leaderboard-link)
@@ -52,7 +52,7 @@ We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vi
 Weichen Zhang, Yiyou Sun, Pohao Huang, **Jiayue Pu**, Heyue Lin, Dawn Song
 
 <div style="margin: 20px 0;">
-  <img src='mirage-bench.png' alt="MIRAGE-Bench Overview" style="width: 100%; max-width: 800px;">
+  <img src='/images/mirage-bench.png' alt="MIRAGE-Bench Overview" style="width: 100%; max-width: 800px;">
 </div>
 
 [[**Paper**]](https://arxiv.org/link-to-paper) | [[**Code & Data**]](https://github.com/your-repo)
