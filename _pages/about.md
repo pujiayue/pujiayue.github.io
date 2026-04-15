@@ -32,28 +32,48 @@ During my freshman year at university, driven by a strong passion for informatio
 - *2025.01 - 2025.05*, Visiting Student in EECS, University of California, Berkeley.
   
 # 📝 Publications 
-Currently involved in research projects at Key Laboratory of Intelligent Algorithm Security, Institute of Computing Technology, Chinese Academy of Sciences, focusing on LLM Unlearning Evaluation. Expected to contribute to upcoming publications.
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/homesafe-bench.png' alt="homesafe-bench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](https://arxiv.org/abs/2603.11975)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiayue Pu**, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**arXiv**](https://arxiv.org/abs/2603.11975) | [**Project Page**](https://pujiayue.github.io/homesafe-bench.github.io/) | [**Code**](https://github.com/pujiayue/HomeSafe-Bench) | [**Dataset**](https://drive.google.com/drive/folders/1mMTKtmGmu-dBdylRZUoPt3QRKmDe_gk4) | [**Leaderboard**](https://huggingface.co/spaces/pujiayue/HomeSafe-Bench-Leaderboard)
+- We introduce HomeSafe-Bench, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas. We also propose HD-Guard, a hierarchical streaming architecture for real-time safety monitoring.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/miragebench.png' alt="mirage-bench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](https://arxiv.org/abs/2507.21017)
+
+Weichen Zhang, Yiyou Sun, Pohao Huang, **Jiayue Pu**, Heyue Lin, Dawn Song
+
+[**arXiv**](https://arxiv.org/abs/2507.21017) | [**Code & Data**](https://github.com/sunblaze-ucb/mirage-bench)
+- We present MIRAGE-Bench, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/unlearning.png' alt="unlearning-survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on Unlearning in Large Language Models](https://arxiv.org/abs/2510.25117)
+
+Ruichen Qiu, Jiajun Tan, **Jiayue Pu**, Honglin Wang, Xiao-Shan Gao, Fei Sun
+
+[**arXiv**](https://arxiv.org/abs/2510.25117)
+- This survey provides a systematic review of over 180 papers on LLM unlearning published since 2021. It introduces a novel taxonomy categorizing unlearning methods and offers a multidimensional analysis of evaluation paradigms, datasets, and metrics.
+</div>
+</div>
 
 # 💻 Internships
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
 - *2024.09 - 2025.05*, Berkeley AI Safety Initiative, group members.
-- *2024.09 - 2025.05*, University of California, Berkeley, Research Collaborator, advised by [Prof. Yiyou Sun](https://sunyiyou.github.io/).
+- *2024.09 - 2025.05*, University of California, Berkeley, Research Collaborator, advised by [Postdoc. Yiyou Sun](https://sunyiyou.github.io/).
+- *2025.08 - Present*, Gaoling School of Artificial Intelligence, Renmin University of China, co-advised by [Prof. XiaoZhang](https://gsai.ruc.edu.cn/gsaixiaozhang) and [Prof. Jun Xu](https://gsai.ruc.edu.cn/~junxu).
 
 # 🥇 Honors and Awards
 - **National Scholarship**, Ministry of Education of P.R.China
@@ -70,6 +90,7 @@ Currently involved in research projects at Key Laboratory of Intelligent Algorit
 
 # 🤝 Meetings
 - ACL(The Association for Computational Linguistics) 2024, Bangkok, Thailand
+- EMNLP (Empirical Methods in Natural Language Processing) 2025, Su Zhou, China
   
 <!--
 # 💬 Invited Talks
