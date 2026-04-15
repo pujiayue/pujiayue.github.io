@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiayue Pu"
-  avatar           : "images/IMG_3435.JPG"
+  avatar           : "images/IMG_3435(1).JPG"
   bio              : # "Hi! I am Jiayue Pu, a sophomore majoring in Computer Science at University of Chinese Academy of Sciences, China. My current research interest lies in Trustworthy Machine Learning, especially in Large Language Models and Machine Unlearning."
   location         : "Beijing, China"
   cv               : "docs/pjy_CV_UCAS_7:17:2025.pdf"
