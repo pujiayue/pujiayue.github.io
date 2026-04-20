@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 👋 About Me
 Hi! I am Jiayue Pu(浦嘉越), a junior majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), fortunately supervised by [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy AI, especially in Large Language Models (Agents) Unlearning and Hallucination.
 
-During my freshman year at university, driven by a strong passion for information security, I actively participated in Capture the Flag (CTF) competitions and achieved some notable results. As I progressed into my sophomore year, I joined the Key Laboratory of AI Safety at the Institute of Computing Technology, Chinese Academy of Sciences, where I researched LLM safety under the guidance of [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Fei Sun](http://ofey.me/), with a primary focus on LLM unlearning. Currently, I am a visiting student in the University of California, Berkeley, and conducting research on hallucinations in LLM agents under the guidance of [Dr. Yiyou Sun](https://sunyiyou.github.io/), a postdoctoral researcher in [Prof. Dawn Song](https://dawnsong.io/)'s lab.
+During my freshman year at university, driven by a strong passion for information security, I actively participated in Capture the Flag (CTF) competitions and achieved some notable results. As I progressed into my sophomore year, I joined the Key Laboratory of AI Safety at the Institute of Computing Technology, Chinese Academy of Sciences, where I researched LLM safety under the guidance of [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Fei Sun](http://ofey.me/), with a primary focus on LLM unlearning. Currently, I am a visiting student in the University of California, Berkeley, and conducting research on hallucinations in LLM agents under the guidance of [Dr. Yiyou Sun](https://sunyiyou.github.io/), a postdoctoral researcher in [Prof. Dawn Song](https://dawnsong.io/)'s lab. Since September 2025, I have joined the Gaoling School of Artificial Intelligence at Renmin University of China, where I continue to pursue my research in the field of AI Safety.
 
 # 📖 Educations
 - *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
@@ -35,7 +35,9 @@ During my freshman year at university, driven by a strong passion for informatio
 
 ## **HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**
 
-**Jiayue Pu**, Zhongxiang Sun, Zilu Zhang, Xiao Zhang, Jun Xu
+**Jiayue Pu**\*, Zhongxiang Sun\*, Zilu Zhang\*, Xiao Zhang, Jun Xu  
+*Gaoling School of Artificial Intelligence, Renmin University of China*  
+*(\* Equal contribution)*
 
 <div style="margin: 20px 0;">
   <img src='/images/abcd_00.png' alt="HomeSafe-Bench Overview" style="width: 100%; max-width: 800px;">
@@ -49,7 +51,9 @@ We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vi
 
 ## **MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them**
 
-Weichen Zhang, Yiyou Sun, Pohao Huang, **Jiayue Pu**, Heyue Lin, Dawn Song
+Weichen Zhang\*, Yiyou Sun\*, Pohao Huang†, **Jiayue Pu**†, Heyue Lin†, Dawn Song  
+*University of California, Berkeley*  
+*(\* Equal contribution, † Equal second contribution)*
 
 <div style="margin: 20px 0;">
   <img src='/images/mirage-bench.png' alt="MIRAGE-Bench Overview" style="width: 100%; max-width: 800px;">
@@ -63,7 +67,9 @@ We present **MIRAGE-Bench**, the first unified benchmark for eliciting and evalu
 
 ## **A Survey on Unlearning in Large Language Models**
 
-Ruichen Qiu, Jiajun Tan, **Jiayue Pu**, Honglin Wang, Xiao-Shan Gao, Fei Sun
+Ruichen Qiu, Jiajun Tan, <b>Jiayue Pu</b>, Honglin Wang, Xiao-Shan Gao, Fei Sun
+<br>
+<i><small>Institute of Computing Technology, Chinese Academy of Sciences</small></i>
 
 [[**Paper**]](https://arxiv.org/link-to-paper)
 
