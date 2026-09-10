@@ -23,13 +23,15 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 👋 About Me
-Hi! I am Jiayue Pu(浦嘉越), a senior majoring in Computer Science at [University of Chinese Academy of Sciences, China](https://www.ucas.ac.cn/), fortunately supervised by [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Prof. Fei Sun](http://ofey.me/). My current research interest lies in Trustworthy AI, especially in Large Language Models (Agents) Unlearning and Hallucination.
+Hi! I am Jiayue Pu (浦嘉越), currently a PhD student at the Gaoling School of Artificial Intelligence, Renmin University of China, co-advised by [Prof. Jun Xu](http://ai.ruc.edu.cn/academicfaculty/szdwn/xj/index.htm) and [Prof. Xiao Zhang](https://pinkfloyd1989.github.io/ZHANG-Xiao/). Prior to this, I received my bachelor's degree in Computer Science from the University of Chinese Academy of Sciences (UCAS), where I was fortunate to be supervised by [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Prof. Fei Sun](http://ofey.me/) at the Institute of Computing Technology (ICT, CAS). I also spent time as a visiting student at UC Berkeley, working on LLM agent hallucinations under the guidance of [Dr. Yiyou Sun](https://sunyiyou.github.io/) in [Prof. Dawn Song](https://dawnsong.io/)'s group.
 
-During my freshman year at university, driven by a strong passion for information security, I actively participated in Capture the Flag (CTF) competitions and achieved some notable results. As I progressed into my sophomore year, I joined the Key Laboratory of AI Safety at the Institute of Computing Technology, Chinese Academy of Sciences, where I researched LLM safety under the guidance of [Prof. Xueqi Cheng](https://scholar.google.com/citations?user=hY8aLqAAAAAJ&hl=en) and [Fei Sun](http://ofey.me/), with a primary focus on LLM unlearning. Currently, I am a visiting student in the University of California, Berkeley, and conducting research on hallucinations in LLM agents under the guidance of [Dr. Yiyou Sun](https://sunyiyou.github.io/), a postdoctoral researcher in [Prof. Dawn Song](https://dawnsong.io/)'s lab. Since September 2025, I have joined the Gaoling School of Artificial Intelligence at Renmin University of China, where I continue to pursue my research in the field of AI Safety.
+My primary research interests lie in Trustworthy AI Agents and AI for Science (AI4Science).
 
 # 📖 Educations
-- *2022.09 - Present*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
+- *2026.09 - Present*, PhD in Artificial Intelligence, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2022.09 - 2026.08*, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 - *2025.01 - 2025.05*, Visiting Student in EECS, University of California, Berkeley.
+
 
 # 📝 Publications
 
@@ -47,7 +49,6 @@ During my freshman year at university, driven by a strong passion for informatio
 
 We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas with fine-grained multidimensional annotations. We also propose **HD-Guard**, a hierarchical streaming architecture for real-time safety monitoring that coordinates a lightweight FastBrain for continuous high-frequency screening with an asynchronous SlowBrain for deep multimodal reasoning.
 
----
 
 ## **MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them**
 
@@ -63,7 +64,6 @@ Weichen Zhang\*, Yiyou Sun\*, Pohao Huang†, **Jiayue Pu**†, Heyue Lin†, Da
 
 We present **MIRAGE-Bench**, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts to systematically assess agent reliability in dynamic environments.
 
----
 
 ## **A Survey on Unlearning in Large Language Models**
 
