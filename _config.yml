@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiayue Pu"
   avatar           : "images/IMG_3435(1).JPG"
-  bio              : "PhD Student, GSAI, RUC"
+  bio              : 
   location         : "Beijing, China"
   cv               : "docs/pjy_CV_UCAS_7:17:2025.pdf"
   employer         :
