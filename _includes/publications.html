@@ -1,0 +1,32 @@
+<section class="publications" aria-labelledby="-publications">
+  <h1 id="-publications">📝 Publications</h1>
+  {% for publication in site.data.publications %}
+  <article class="publication{% if publication.featured %} publication--featured{% endif %}{% if publication.image %} publication--illustrated{% endif %}" aria-labelledby="{{ publication.id }}">
+    <div class="publication__details">
+      {% if publication.featured %}
+      <p class="publication__label">Featured Survey</p>
+      {% endif %}
+      <h2 id="{{ publication.id }}">{{ publication.title | escape }}</h2>
+      <div class="publication__authors">{{ publication.authors | markdownify }}</div>
+      <p class="publication__affiliation">{{ publication.affiliation | escape }}</p>
+      {% if publication.author_note %}
+      <p class="publication__author-note">{{ publication.author_note | escape }}</p>
+      {% endif %}
+      <div class="publication__links">
+        {% for link in publication.links %}
+        <a href="{{ link.url | escape }}">{{ link.label | escape }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    {% if publication.image %}
+    <figure class="publication__figure">
+      <a href="{{ publication.image.path | relative_url }}" aria-label="View full-size figure for {{ publication.image.alt | escape }}">
+        <img src="{{ publication.image.thumbnail | default: publication.image.path | relative_url }}" alt="{{ publication.image.alt | escape }}" loading="lazy" decoding="async">
+        <span>View figure <span aria-hidden="true">↗</span></span>
+      </a>
+    </figure>
+    {% endif %}
+    <div class="publication__summary">{{ publication.summary | markdownify }}</div>
+  </article>
+  {% endfor %}
+</section>

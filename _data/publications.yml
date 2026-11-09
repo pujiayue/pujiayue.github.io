@@ -1,0 +1,67 @@
+- id: trustworthy-recursive-self-improvement-in-the-era-of-large-models-foundation-risks-evaluation-and-open-challenges
+  title: "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges"
+  featured: true
+  authors: '**Jiayue Pu**, Ang Gao, Jinyi Bai, Qipeng Wang, Tongyu Wen, Jiahao Zhao, Keyu Qu, Junhao Zhang, Chenglei Shen†, Zhongxiang Sun†, Jun Xu, Xiao Zhang\*'
+  affiliation: Gaoling School of Artificial Intelligence, Renmin University of China and University of Chinese Academy of Sciences
+  author_note: "† Project supervisors, * Corresponding author"
+  image:
+    path: /images/trustworthy-rsi.png
+    alt: Overview of the recursive self-improvement process and trustworthiness framework
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2610.35193
+    - label: Project Page
+      url: https://pujiayue.github.io/Trustworthy-RSI/
+    - label: Resources
+      url: https://github.com/pujiayue/Trustworthy-RSI
+  summary: >-
+    We survey **trustworthy recursive self-improvement (RSI)** in large-model systems that can revise how they generate, evaluate, and implement their own updates. Our framework examines whether gains persist, whether behavioral, security, and privacy constraints hold, and whether humans can still understand and intervene in the process. We review safeguards and evaluation methods and identify open questions about how to assess successive system versions.
+
+- id: homesafe-bench-evaluating-vision-language-models-on-unsafe-action-detection-for-embodied-agents-in-household-scenarios
+  title: "HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios"
+  authors: '**Jiayue Pu**\*, Zhongxiang Sun\*, Zilu Zhang\*, Xiao Zhang, Jun Xu'
+  affiliation: Gaoling School of Artificial Intelligence, Renmin University of China
+  author_note: "* Equal contribution"
+  image:
+    path: /images/abcd_00.png
+    thumbnail: /images/homesafe-bench-preview.png
+    alt: HomeSafe-Bench overview
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2603.11975
+    - label: Project Page
+      url: https://pujiayue.github.io/homesafe-bench.github.io/
+    - label: Code
+      url: https://github.com/pujiayue/HomeSafe-Bench
+    - label: Dataset
+      url: https://drive.google.com/your-dataset-link
+    - label: Leaderboard
+      url: https://your-leaderboard-link
+  summary: >-
+    We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas with fine-grained multidimensional annotations. We also propose **HD-Guard**, a hierarchical streaming architecture for real-time safety monitoring that coordinates a lightweight FastBrain for continuous high-frequency screening with an asynchronous SlowBrain for deep multimodal reasoning.
+
+- id: mirage-bench-llm-agent-is-hallucinating-and-where-to-find-them
+  title: "MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them"
+  authors: 'Weichen Zhang\*, Yiyou Sun\*, Pohao Huang†, **Jiayue Pu**†, Heyue Lin†, Dawn Song'
+  affiliation: University of California, Berkeley
+  author_note: "* Equal contribution, † Equal second contribution"
+  image:
+    path: /images/mirage-bench.png
+    alt: MIRAGE-Bench overview
+  links:
+    - label: Paper
+      url: https://arxiv.org/link-to-paper
+    - label: Code & Data
+      url: https://github.com/your-repo
+  summary: >-
+    We present **MIRAGE-Bench**, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts to systematically assess agent reliability in dynamic environments.
+
+- id: a-survey-on-unlearning-in-large-language-models
+  title: A Survey on Unlearning in Large Language Models
+  authors: 'Ruichen Qiu, Jiajun Tan, **Jiayue Pu**, Honglin Wang, Xiao-Shan Gao, Fei Sun'
+  affiliation: Institute of Computing Technology, Chinese Academy of Sciences
+  links:
+    - label: Paper
+      url: https://arxiv.org/link-to-paper
+  summary: >-
+    This comprehensive survey provides a systematic review of over 180 papers on LLM unlearning published since 2021. We introduce a novel taxonomy categorizing unlearning methods and offer a multidimensional analysis of evaluation paradigms, datasets, and metrics, providing crucial insights for developing more effective unlearning techniques in large language models.
