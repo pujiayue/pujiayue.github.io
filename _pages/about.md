@@ -35,6 +35,21 @@ My primary research interests lie in Trustworthy AI Agents and AI for Science (A
 
 # 📝 Publications
 
+## **Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges**
+
+**Jiayue Pu**, Ang Gao, Jinyi Bai, Qipeng Wang, Tongyu Wen, Jiahao Zhao, Keyu Qu, Junhao Zhang, Chenglei Shen†, Zhongxiang Sun†, Jun Xu, Xiao Zhang\*<br>
+*Gaoling School of Artificial Intelligence, Renmin University of China and University of Chinese Academy of Sciences*<br>
+*(† Project supervisors, \* Corresponding author)*
+
+<div style="margin: 20px 0;">
+  <img src='/images/trustworthy-rsi.png' alt="Overview of the recursive self-improvement process and trustworthiness framework" style="width: 100%; max-width: 800px;">
+</div>
+
+[[**Project Page**]](https://pujiayue.github.io/Trustworthy-RSI/) | [[**Paper**]](https://arxiv.org/pdf/2610.35193) | [[**Resources**]](https://github.com/pujiayue/Trustworthy-RSI)
+
+We survey **trustworthy recursive self-improvement (RSI)** in large-model systems that can revise how they generate, evaluate, and implement their own updates. Our framework examines whether gains persist, whether behavioral, security, and privacy constraints hold, and whether humans can still understand and intervene in the process. We review safeguards and evaluation methods and identify open questions about how to assess successive system versions.
+
+
 ## **HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**
 
 **Jiayue Pu**\*, Zhongxiang Sun\*, Zilu Zhang\*, Xiao Zhang, Jun Xu  
@@ -94,7 +109,10 @@ This comprehensive survey provides a systematic review of over 180 papers on LLM
   - Awarded in *October 2023*
 
 
-# 🤝 Meetings
+<span class='anchor' id='-meetings'></span>
+
+# 🤝 Meetings and Talks
+- *2026.11.09*, 华为「RSI \* 知识库：从递归自我改进到企业级知识闭环」Meetup，「RSI可信综述」分享。
 - ACL(The Association for Computational Linguistics) 2024, Bangkok, Thailand
 - EMNLP (Empirical Methods in Natural Language Processing) 2025, Su Zhou, China
   
