@@ -60,8 +60,11 @@
   title: A Survey on Unlearning in Large Language Models
   authors: 'Ruichen Qiu, Jiajun Tan, **Jiayue Pu**, Honglin Wang, Xiao-Shan Gao, Fei Sun'
   affiliation: Institute of Computing Technology, Chinese Academy of Sciences
+  image:
+    path: /images/unlearning-survey.png
+    alt: Taxonomy of training-time, post-training, and inference-time unlearning methods
   links:
     - label: Paper
-      url: https://arxiv.org/link-to-paper
+      url: https://arxiv.org/abs/2510.25117
   summary: >-
     This comprehensive survey provides a systematic review of over 180 papers on LLM unlearning published since 2021. We introduce a novel taxonomy categorizing unlearning methods and offer a multidimensional analysis of evaluation paradigms, datasets, and metrics, providing crucial insights for developing more effective unlearning techniques in large language models.
