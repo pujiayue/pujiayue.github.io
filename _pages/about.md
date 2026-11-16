@@ -38,7 +38,7 @@ My primary research interests lie in Trustworthy AI Agents and AI for Science (A
 # 💻 Internships
 - *2023.09 - Present*, Institute of Computing Technology, Chinese Academy of Sciences，Research Intern, advised by [Prof. Fei Sun](http://ofey.me/).
 - *2024.09 - 2025.05*, Berkeley AI Safety Initiative, group members.
-- *2024.09 - 2025.05*, University of California, Berkeley, Research Collaborator, advised by [Postdoc. Yiyou Sun](https://sunyiyou.github.io/).
+- *2024.09 - 2025.05*, University of California, Berkeley, Research Collaborator, advised by [Prof. Dawn Song](https://dawnsong.io/) and [Postdoc. Yiyou Sun](https://sunyiyou.github.io/).
 - *2025.08 - Present*, Gaoling School of Artificial Intelligence, Renmin University of China, co-advised by [Prof. XiaoZhang](https://gsai.ruc.edu.cn/gsaixiaozhang) and [Prof. Jun Xu](https://gsai.ruc.edu.cn/~junxu).
 
 # 🥇 Honors and Awards
