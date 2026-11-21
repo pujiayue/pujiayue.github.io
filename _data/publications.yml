@@ -34,9 +34,7 @@
     - label: Code
       url: https://github.com/pujiayue/HomeSafe-Bench
     - label: Dataset
-      url: https://drive.google.com/your-dataset-link
-    - label: Leaderboard
-      url: https://your-leaderboard-link
+      url: https://drive.google.com/drive/folders/1mMTKtmGmu-dBdylRZUoPt3QRKmDe_gk4?usp=sharing
   summary: >-
     We introduce **HomeSafe-Bench**, a challenging benchmark designed to evaluate Vision-Language Models (VLMs) on unsafe action detection in household scenarios, featuring 438 diverse cases across six functional areas with fine-grained multidimensional annotations. We also propose **HD-Guard**, a hierarchical streaming architecture for real-time safety monitoring that coordinates a lightweight FastBrain for continuous high-frequency screening with an asynchronous SlowBrain for deep multimodal reasoning.
 
@@ -50,9 +48,9 @@
     alt: MIRAGE-Bench overview
   links:
     - label: Paper
-      url: https://arxiv.org/link-to-paper
+      url: https://arxiv.org/abs/2507.21017
     - label: Code & Data
-      url: https://github.com/your-repo
+      url: https://github.com/sunblaze-ucb/mirage-bench
   summary: >-
     We present **MIRAGE-Bench**, the first unified benchmark for eliciting and evaluating hallucinations in interactive LLM-agent scenarios. It introduces a three-part taxonomy and adopts a fine-grained-level LLM-as-a-Judge paradigm with tailored risk-aware prompts to systematically assess agent reliability in dynamic environments.
 
